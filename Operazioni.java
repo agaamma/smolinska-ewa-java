@@ -18,5 +18,6 @@ public class Operazioni {
     System.out.print(c*d);
     System.out.print(c/d);
     System.out.print(c%d);
+    System.out.print(c-d);
 }
 }
