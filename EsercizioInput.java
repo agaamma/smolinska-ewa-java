@@ -20,6 +20,7 @@ public class EsercizioInput {
         char c = 'A';
         int n2 = (int)c;
 //jak robic operacje na string z lungeza
-
+        System.out.println(n1.toString());
+        System.out.println(n2.toString());
     }
 }
