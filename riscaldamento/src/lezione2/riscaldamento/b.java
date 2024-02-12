@@ -6,7 +6,7 @@ public class b {
     public static void main(String[] args) {
         //eta maggiorenne true of false
         Scanner tastiera = new Scanner(System.in);
-        /*int eta = Integer.parseInt(tastiera.nextLine());
+        int eta = Integer.parseInt(tastiera.nextLine());
         boolean condizione = eta >= 18;
         System.out.println(condizione);
         */
