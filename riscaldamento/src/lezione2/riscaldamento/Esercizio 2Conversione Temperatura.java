@@ -22,7 +22,7 @@ public class EsercizioInput {
         System.out.println("Temperatura in Celsius: " + TC);
 
         if (Cghiaccio){
-            System.out.println("stato: ghiaccio")
+            System.out.println("stato: ghiaccio");
         }
         else if(Caqua){
             System.out.println("stato: aqua");
