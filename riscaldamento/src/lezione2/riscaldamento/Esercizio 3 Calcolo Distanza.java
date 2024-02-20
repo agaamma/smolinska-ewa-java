@@ -21,7 +21,7 @@ public class Esercizio3 {
         System.out.print("Inserisci valore y2");
         double y2 = Double.parseDouble(tastiera.nextLine());
 
-        double DIS = ;
+        double DIS = 1; // przypadkowa wartosc, aby nie bylo bledu
 
         boolean Cghiaccio = TC< 0;
         boolean Caqua = TC >= 0 && TC <100;
@@ -30,7 +30,7 @@ public class Esercizio3 {
         System.out.println("Temperatura in Celsius: " + TC);
 
         if (Cghiaccio){
-            System.out.println("stato: ghiaccio")
+            System.out.println("stato: ghiaccio");
         }
         else if(Caqua){
             System.out.println("stato: aqua");

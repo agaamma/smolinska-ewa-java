@@ -1,4 +1,4 @@
-package lezione3;
+package src.lezione3;
 
 
 public class Iterazione {

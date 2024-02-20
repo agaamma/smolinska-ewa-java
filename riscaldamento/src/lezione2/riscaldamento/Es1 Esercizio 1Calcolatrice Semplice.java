@@ -25,7 +25,7 @@ public class EsercizioInput {
         int moltiplicazione = n1 * n2;
         int divisione = n1/n2;
         if (condizioneAdd){
-            System.out.println(addizione)
+            System.out.println(addizione);
         }
         else if(condizioneSot){
             System.out.println(sottrazione);
